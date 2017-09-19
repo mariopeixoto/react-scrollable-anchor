@@ -1,6 +1,8 @@
 react-scrollable-anchor
 =====================
 
+Fork from react-scrollable-anchor.
+
 [![npm version](https://img.shields.io/npm/v/react-scrollable-anchor.svg?style=flat-square)](https://www.npmjs.com/package/react-scrollable-anchor)
 
 Lightweight library for smooth scrolling anchors in React, tied to URL hash.
